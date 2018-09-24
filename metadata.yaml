@@ -1,0 +1,31 @@
+_repo: Universal-Brotherhood-Volume-XIII-No-10-January-1899_56761
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Tingley, Katherine Augusta Westcott
+    alias: Tingley, Katherine A. (Katherine Augusta)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '25981'
+    url: http://www.gutenberg.org/2009/agents/25981
+  - agent_name: Neresheimer, Emil
+    gutenberg_agent_id: '49025'
+    url: http://www.gutenberg.org/2009/agents/49025
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Universal Brotherhood, Volume XIII, No. 10, January 1899
+url: http://www.gutenberg.org/ebooks/56761
